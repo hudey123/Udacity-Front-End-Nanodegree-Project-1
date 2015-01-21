@@ -1,0 +1,54 @@
+body {
+	font-family: Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 46.5px;
+	color: #666666;
+	text-align: center;
+	padding-top: 25px;
+}
+
+h2 {
+	font-size: 22px;
+	color: #f07c17;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+p {
+	font-size: 15.5px;
+	line-height: 2;
+}
+
+.content-area {
+	padding-left: 12px;
+	padding-top: 2px;
+}
+
+.container {
+	border: 0px solid red;
+	padding-left: 27px;
+	padding-right: 18px;
+}
+
+.sidebar {
+	border: 1px solid #cccccc;
+	width: 375px;
+	height: 223px;
+	margin-top: 28px;
+	padding-left: 31px;
+	padding-top: 14px;
+}
+
+.mug-image {
+	width: 375px;
+	height: 375px;
+	margin-top: 20px;
+}
+
+ul {
+	font-size: 1.3em;
+	padding-top: 2px;
+	line-height: 1.7;
+}
